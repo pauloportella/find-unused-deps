@@ -1,0 +1,7 @@
+{
+    "useTabs": false,
+    "tabWidth": 4,
+    "printWidth": 80,
+    "endOfLine": "lf",
+    // "plugins": ["./node_modules/prettier-plugin-rust"]
+}
